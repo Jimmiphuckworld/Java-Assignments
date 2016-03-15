@@ -1,2 +1,2 @@
 # Java-Assignments
-Source Codes of Programmming Course Assignments
+Source Codes of Java Programmming 
